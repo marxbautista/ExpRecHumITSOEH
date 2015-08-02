@@ -172,13 +172,13 @@
       <dsig:DigestValue>0g/6ykoKL11Pu4YCobFBaWA45kU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="PresentacionRH.exe.config" size="849">
+  <file name="PresentacionRH.exe.config" size="969">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>jn1jU/p3/A8s/sRs0uGvHY6Nrow=</dsig:DigestValue>
+      <dsig:DigestValue>iWOG8G/dXDZ40Tw/hRYnoEg6A2k=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

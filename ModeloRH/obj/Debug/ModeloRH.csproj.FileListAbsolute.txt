@@ -30,3 +30,11 @@ D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\bin\Debug\Entidad
 D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.csprojResolveAssemblyReference.cache
 D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.dll
 D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.pdb
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll.config
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.pdb
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.dll
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.pdb
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.csprojResolveAssemblyReference.cache
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.dll
+D:\Users\max\Documents\GitHub\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.pdb
