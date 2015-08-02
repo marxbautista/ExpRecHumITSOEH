@@ -1,0 +1,32 @@
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll.config
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.csprojResolveAssemblyReference.cache
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll.config
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.csprojResolveAssemblyReference.cache
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll.config
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.csprojResolveAssemblyReference.cache
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll.config
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\bin\Debug\ModeloRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\bin\Debug\EntidadesRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.csprojResolveAssemblyReference.cache
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\ModeloRH\obj\Debug\ModeloRH.pdb

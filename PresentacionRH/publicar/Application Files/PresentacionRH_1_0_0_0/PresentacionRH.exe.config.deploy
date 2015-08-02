@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+  </configSections>
+  <!--<connectionStrings>
+    <add name="cnnString"
+         connectionString="Data Source=uppisa;Initial Catalog=Expediente;Persist Security Info=True;User ID=sa;Password=isaias123"
+        providerName="System.Data.SqlClient" />
+  </connectionStrings>-->
+  <connectionStrings>
+    <add name="cnnString" connectionString="Data Source=PERSONAL-PC\RHSERVER;Initial Catalog=Expediente;Persist Security Info=True;User ID=sa;Password=ITSOEH123"
+       providerName="System.Data.SqlClient" />
+
+  </connectionStrings>
+</configuration>
+
+<!--connectionString="Data Source=ISAIASLAP;Initial Catalog=Expediente;Persist Security Info=True;User ID=sa;Password=isaias_123"-->

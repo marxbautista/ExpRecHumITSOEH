@@ -1,0 +1,15 @@
+D:\Proyectos VSNet\ExpRecHumITSOEH\Comunes\bin\Debug\Comunes.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\Comunes\bin\Debug\Comunes.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.csprojResolveAssemblyReference.cache
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\Comunes\bin\Debug\Comunes.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\Comunes\bin\Debug\Comunes.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.csprojResolveAssemblyReference.cache
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\Comunes\bin\Debug\Comunes.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\Comunes\bin\Debug\Comunes.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.csprojResolveAssemblyReference.cache
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\Comunes\obj\Debug\Comunes.pdb

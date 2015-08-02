@@ -1,0 +1,188 @@
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe.config
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csprojResolveAssemblyReference.cache
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.ResolveComReference.cache
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Acerca.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDepartamento.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDocumento.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmEdoCivil.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmLogIn.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmNivelAcceso.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPassword.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPeriodo.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonalAc.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonal.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmProfesion.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCargo.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmInstitucion.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPrincipal.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoCurso.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoDoc.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmViPersonal.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Properties.Resources.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.GenerateResource.Cache
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.exe
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.dll
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.pdb
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmContrato.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCurso.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmGradoAcademico.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmRequisitosExpediente.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCumpleRequisitos.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Reportes.frmrptHojaVerificacion.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmHVerifRequisitos.resources
+D:\Proyectos VSNet\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmStatus.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe.config
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.ResolveComReference.cache
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.exe
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csprojResolveAssemblyReference.cache
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Acerca.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCumpleRequisitos.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCurso.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDepartamento.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmContrato.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmHVerifRequisitos.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDocumento.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmEdoCivil.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmGradoAcademico.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmLogIn.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmNivelAcceso.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPassword.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPeriodo.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonalAc.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonal.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmProfesion.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCargo.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmInstitucion.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPrincipal.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmRequisitosExpediente.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmStatus.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoCurso.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoDoc.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmViPersonal.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Properties.Resources.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Reportes.frmrptHojaVerificacion.resources
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.GenerateResource.Cache
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.pdb
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\IsaiasLP\Dropbox\UPPComun\Linea de investigacion ITSOEH\ExpRecHumITSOEH\PresentacionRH\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe.config
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\Interop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.ResolveComReference.cache
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.exe
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.pdb
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Interop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csprojResolveAssemblyReference.cache
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Acerca.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCumpleRequisitos.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCurso.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDepartamento.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmContrato.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmHVerifRequisitos.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDocumento.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmEdoCivil.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmGradoAcademico.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmLogIn.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmNivelAcceso.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPassword.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPeriodo.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonalAc.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonal.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmProfesion.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCargo.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmInstitucion.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPrincipal.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmRequisitosExpediente.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmStatus.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoCurso.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoDoc.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmViPersonal.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Properties.Resources.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Reportes.frmrptHojaVerificacion.resources
+D:\Users\max\Documents\Nueva Version\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.GenerateResource.Cache
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe.config
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\Interop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.ResolveComReference.cache
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.exe
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Comunes.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ControlRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\EntidadesRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\ModeloRH.pdb
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\Interop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csprojResolveAssemblyReference.cache
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Acerca.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCumpleRequisitos.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCurso.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDepartamento.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmContrato.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmHVerifRequisitos.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmDocumento.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmEdoCivil.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmGradoAcademico.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmLogIn.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmNivelAcceso.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPassword.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPeriodo.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonalAc.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPersonal.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmProfesion.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmCargo.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmInstitucion.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmPrincipal.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmRequisitosExpediente.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmStatus.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoCurso.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmTipoDoc.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.frmViPersonal.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Properties.Resources.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.Reportes.frmrptHojaVerificacion.resources
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.csproj.GenerateResource.Cache
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.exe.manifest
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\bin\Debug\PresentacionRH.application
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.exe.manifest
+D:\Users\max\Documents\Nueva Version2\ExpRecHumITSOEH\PresentacionRH\obj\Debug\PresentacionRH.application
